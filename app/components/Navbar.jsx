@@ -47,7 +47,7 @@ const Navbar = ({isDarkMode, setIsDarkMode}) => {
                 <div className='flex items-center gap-4'>
                     {/*<button >
                         <Image src={assets.moon_icon} alt='' className='w-6' />
-                    </button> */}git --version
+                    </button> */}
 
 
 
