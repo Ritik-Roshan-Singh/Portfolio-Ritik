@@ -19,7 +19,7 @@ const Footer = () => {
                     &copy;{new Date().getFullYear()} Ritik Roshan Singh. All rights reserved.  </p>
                 <ul className='flex items-center gap-10 justify-center mt-4 sm:mt-0'>
                     <li> <a target='_blank' href="https://github.com/Ritik-Roshan-Singh">GitHub</a></li>
-                      <li> <a target='_blank' href="www.linkedin.com/in/ritik-roshan-singh">LinkedIn</a></li>
+                      <li> <a target='_blank' href="https://www.linkedin.com/in/ritik-roshan-singh/">LinkedIn</a></li>
                         <li> <a target='_blank' href="https://x.com/ritikroshan06">Twitter</a></li>
                           
                 </ul>
